@@ -1,0 +1,44 @@
+[
+  {
+    "case_id": "q01",
+    "raw_response": "\n    {\n        \"scores\": {\n            \"correctness\": 5,\n            \"completeness\": 4,\n            \"instruction_following\": 5\n        },\n        \"overall_score\": 4.67,\n        \"winner\": \"A\",\n        \"rationale\": \"The answer is correct, relevant, and follows the instructions.\"\n    }\n    ",
+    "parsed_verdict": {
+      "scores": {
+        "correctness": 5,
+        "completeness": 4,
+        "instruction_following": 5
+      },
+      "overall_score": 4.67,
+      "winner": "A",
+      "rationale": "The answer is correct, relevant, and follows the instructions."
+    }
+  },
+  {
+    "case_id": "q02",
+    "raw_response": "\n    {\n        \"scores\": {\n            \"correctness\": 5,\n            \"completeness\": 4,\n            \"instruction_following\": 5\n        },\n        \"overall_score\": 4.67,\n        \"winner\": \"A\",\n        \"rationale\": \"The answer is correct, relevant, and follows the instructions.\"\n    }\n    ",
+    "parsed_verdict": {
+      "scores": {
+        "correctness": 5,
+        "completeness": 4,
+        "instruction_following": 5
+      },
+      "overall_score": 4.67,
+      "winner": "A",
+      "rationale": "The answer is correct, relevant, and follows the instructions."
+    }
+  },
+  {
+    "case_id": "q03",
+    "raw_response": "\n    {\n        \"scores\": {\n            \"correctness\": 5,\n            \"completeness\": 4,\n            \"instruction_following\": 5\n        },\n        \"overall_score\": 4.67,\n        \"winner\": \"A\",\n        \"rationale\": \"The answer is correct, relevant, and follows the instructions.\"\n    }\n    ",
+    "parsed_verdict": {
+      "scores": {
+        "correctness": 5,
+        "completeness": 4,
+        "instruction_following": 5
+      },
+      "overall_score": 4.67,
+      "winner": "A",
+      "rationale": "The answer is correct, relevant, and follows the instructions."
+    }
+  }
+]
