@@ -64,18 +64,19 @@ unavailable.
 
 Therefore, real LLM measurements such as:
 
-Human/LLM agreement
-Cohen's kappa
-Test-retest consistency
-Real LLM position bias
-Self-enhancement bias
-Real LLM A/B comparison
+- Human/LLM agreement
+- Cohen's kappa
+- Test-retest consistency
+- Real LLM position bias
+- Self-enhancement bias
+- Real LLM A/B comparison
 
 are not claimed in this submission.
 
 ## Future Work
-Connect a real LLM judge
-Run human/gold validation
-Measure judge consistency
-Evaluate real position and verbosity bias
-Compare different judge/model 
+- Connect a real LLM judge
+- Run human/gold validation
+- Measure judge consistency
+- Evaluate real position and verbosity bias
+- Compare different judge/model
+- Add cost and token tracking
