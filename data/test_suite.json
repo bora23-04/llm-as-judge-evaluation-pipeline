@@ -1,0 +1,41 @@
+[
+  {
+    "id": "q01",
+    "input": "What is Python?",
+    "system_prompt": "Answer clearly and concisely.",
+    "answer_a": "Python is a high-level programming language used for general-purpose programming.",
+    "answer_b": "Python is a snake and also a programming language. It was created by Guido van Rossum and is very popular.",
+    "expected_output": "Python is a high-level programming language.",
+    "criteria": [
+      "correctness",
+      "completeness",
+      "instruction_following"
+    ]
+  },
+  {
+    "id": "q02",
+    "input": "What is SQL used for?",
+    "system_prompt": "Answer clearly and concisely.",
+    "answer_a": "SQL is used to query and manage data in relational databases.",
+    "answer_b": "SQL is a programming language that is mainly used for designing websites and creating web pages.",
+    "expected_output": "SQL is used to query and manage relational databases.",
+    "criteria": [
+      "correctness",
+      "completeness",
+      "instruction_following"
+    ]
+  },
+  {
+    "id": "q03",
+    "input": "What is overfitting in machine learning?",
+    "system_prompt": "Explain the concept simply.",
+    "answer_a": "Overfitting occurs when a model learns the training data too closely and performs poorly on unseen data.",
+    "answer_b": "Overfitting means the model performs equally well on training and unseen data.",
+    "expected_output": "Overfitting occurs when a model learns the training data too closely and fails to generalize to unseen data.",
+    "criteria": [
+      "correctness",
+      "completeness",
+      "instruction_following"
+    ]
+  }
+]
